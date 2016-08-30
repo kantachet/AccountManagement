@@ -1,0 +1,84 @@
+import '../css/account.css'
+import React from 'react'
+
+export default class AccountComponent extends React.Component {
+    render() {
+        return (
+            <div className='c12'>
+                <h1>This is</h1>
+                <h1>Account Component</h1>
+                <h2>Account Component</h2>
+                <h3>Account Component</h3>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+                <div>Account Component</div>
+            </div>
+        )
+    }
+}
